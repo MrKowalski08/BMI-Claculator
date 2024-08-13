@@ -1,0 +1,46 @@
+{
+  "kategorie_bmi": [
+      {
+        "kategoria": "Niedowaga",
+        "zakres_bmi_max": 18.5,
+        "zakres_bmi_min": 0.0,
+        "zakres_wagi": "Poniżej normy",
+        "zakres_wzrostu": "Poniżej normy"
+      },
+      {
+        "kategoria": "Normalna waga",
+        "zakres_bmi_max": 24.9,
+        "zakres_bmi_min": 18.5,
+        "zakres_wagi": "Normalna",
+        "zakres_wzrostu": "Normalny"
+      },
+      {
+        "kategoria": "Nadwaga",
+        "zakres_bmi_max": 29.9,
+        "zakres_bmi_min": 25.0,
+        "zakres_wagi": "Nadwaga",
+        "zakres_wzrostu": "Normalny"
+      },
+      {
+        "kategoria": "Otyłość stopnia I",
+        "zakres_bmi_max": 34.9,
+        "zakres_bmi_min": 30.0,
+        "zakres_wagi": "Otyłość",
+        "zakres_wzrostu": "Normalny"
+      },
+      {
+        "kategoria": "Otyłość stopnia II",
+        "zakres_bmi_max": 39.9,
+        "zakres_bmi_min": 35.0,
+        "zakres_wagi": "Otyłość",
+        "zakres_wzrostu": "Normalny"
+      },
+      {
+        "kategoria": "Otyłość stopnia III",
+        "zakres_bmi_max": 10000000.0,
+        "zakres_bmi_min": 40.0,
+        "zakres_wagi": "Otyłość",
+        "zakres_wzrostu": "Normalny"
+      }
+    ]
+  }
